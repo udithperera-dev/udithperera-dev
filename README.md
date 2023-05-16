@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left"  width="300" height="300" src="https://www.akurupela.com/images/AkurupelaLogominifi21000.png">
 
-<!--
-**udithperera-dev/udithperera-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![pgp](https://img.shields.io/badge/pgp-0xB928720AEC532117-313131?style=flat-square&labelColor=313131&color=313131)](https://orhun.dev/orhun.gpg)   
+[![twitter](https://img.shields.io/badge/-@orhunp__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/orhunp_)  
+[![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/orhunp/)  
+[![patreon](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/orhunp)
 
-Here are some ideas to get you started:
+Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+Credits: [orhun](https://github.com/orhun)
+
+Last Edited on: 30/08/2020
