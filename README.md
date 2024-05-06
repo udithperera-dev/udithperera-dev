@@ -13,6 +13,7 @@
 <hr>
 <h2>👨🏻‍💻 &nbsp;Stack</h2>
 <p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-4B32C3?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=android&logoColor=white" />
   <img alt="IOS" src="https://img.shields.io/badge/-IOS-1572B6?style=flat-square&logo=ios&logoColor=white" />
