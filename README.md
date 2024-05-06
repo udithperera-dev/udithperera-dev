@@ -11,9 +11,18 @@
 - 😄  Pronouns: He/His
 
 <hr>
+<h2>👨🏻‍💻 &nbsp;Domains</h2>
+<p>
+  <img alt="Fintech" src="https://img.shields.io/badge/fintech-20B2AA?style=for-the-badge" />
+  <img alt="Salesforce" src="https://img.shields.io/badge/salesforce-20B2AA?style=for-the-badge" />
+  <img alt="CRM" src="https://img.shields.io/badge/hrm-20B2AA?style=for-the-badge" />
+  <img alt="HRM" src="https://img.shields.io/badge/crm-20B2AA?style=for-the-badge" />
+   <img alt="Mobility" src="https://img.shields.io/badge/mobility-20B2AA?style=for-the-badge" />
+</p>
+
+<hr>
 <h2>👨🏻‍💻 &nbsp;Stack</h2>
 <p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-4B32C3?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=android&logoColor=white" />
   <img alt="IOS" src="https://img.shields.io/badge/-IOS-1572B6?style=flat-square&logo=ios&logoColor=white" />
