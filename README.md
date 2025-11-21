@@ -13,6 +13,7 @@
 <hr>
 <h2>👨🏻‍💻 &nbsp;Domains</h2>
 <p>
+  <img alt="Stock" src="https://img.shields.io/badge/fintech-20B2AA?style=for-the-badge" />
   <img alt="Fintech" src="https://img.shields.io/badge/fintech-20B2AA?style=for-the-badge" />
   <img alt="Salesforce" src="https://img.shields.io/badge/salesforce-20B2AA?style=for-the-badge" />
   <img alt="CRM" src="https://img.shields.io/badge/hrm-20B2AA?style=for-the-badge" />
@@ -32,6 +33,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white" />
    <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-E34F26?style=flat-square&logo=codeigniter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white" />
 </p>
 
 <h2>🌎 &nbsp;Contact</h2>
