@@ -13,7 +13,7 @@
 <hr>
 <h2>👨🏻‍💻 &nbsp;Domains</h2>
 <p>
-  <img alt="Stock" src="https://img.shields.io/badge/fintech-20B2AA?style=for-the-badge" />
+  <img alt="Stock" src="https://img.shields.io/badge/stock-20B2AA?style=for-the-badge" />
   <img alt="Fintech" src="https://img.shields.io/badge/fintech-20B2AA?style=for-the-badge" />
   <img alt="Salesforce" src="https://img.shields.io/badge/salesforce-20B2AA?style=for-the-badge" />
   <img alt="CRM" src="https://img.shields.io/badge/hrm-20B2AA?style=for-the-badge" />
